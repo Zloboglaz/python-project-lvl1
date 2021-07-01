@@ -2,8 +2,12 @@ install:
 	poetry install
 brain-games:
 	poetry run brain-games
+brain-even:
+	poetry run brain-even
 build:
 	poetry build
+patch:
+	poetry version patch
 publish:
 	poetry publish --dry-run
 package-install:
