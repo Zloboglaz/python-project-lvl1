@@ -6,3 +6,6 @@
 
 ### GIT Action badge:
 ![Python CI](https://github.com/Zloboglaz/python-project-lvl1/actions/workflows/main.yml/badge.svg)
+
+### Links
+[Asciicast](https://asciinema.org/a/Albrjpeae8kjLtpeF217CXegd) 

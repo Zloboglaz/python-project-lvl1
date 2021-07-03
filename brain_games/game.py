@@ -33,7 +33,7 @@ def start_game():
             count_of_right_answ = count_of_right_answ + 1
             count_of_questuon = count_of_questuon - 1
 
-    if count_of_right_answ == count_of_questuon:
+    if count_of_right_answ == 3:
         print("Congratulations, {}!".format(player_name))
     else:
         print("Let's try again, {}!".format(player_name))
