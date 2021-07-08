@@ -6,7 +6,7 @@ rules = 'What is the result of the expression?'
 
 
 # Формирование кортежа вопросов quest и кортежа правильных ответов answ
-def question():
+def get_question():
     math_operations = '+-*'
     i = 0
     quest = ()
@@ -26,5 +26,5 @@ def question():
 
 # Запуск самой игры
 def calc():
-    (quest, rihgt_answ) = question()
+    (quest, rihgt_answ) = get_question()
     game(rules, quest, rihgt_answ)
