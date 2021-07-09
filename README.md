@@ -13,3 +13,5 @@
 [Asciicast Brain-calc](https://asciinema.org/a/0rtTdJKjhIwSNVy94lWBJr8mi) 
  |
 [Asciicast Brain-gcd](https://asciinema.org/a/DuMgP4ivpzN1curcikr7Tg71H)
+ |
+[Asciicast Brain-progression](https://asciinema.org/a/iz1bc3agQbhhwzFDalJA3SA9q)
