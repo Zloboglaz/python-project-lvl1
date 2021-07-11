@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "3.0.0"
+version = "4.0.0"
 description = ""
 authors = ["andrey <gridnevandr@gmail.com>"]
 packages = [
@@ -24,3 +24,4 @@ brain-even = "brain_games.scripts.brain_even:main"
 brain-calc = "brain_games.scripts.brain_calc:main"
 brain-gcd = "brain_games.scripts.brain_gcd:main"
 brain-progression = "brain_games.scripts.brain_progression:main"
+brain-prime = "brain_games.scripts.brain_prime:main"
