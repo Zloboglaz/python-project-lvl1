@@ -8,12 +8,8 @@
 ![Python CI](https://github.com/Zloboglaz/python-project-lvl1/actions/workflows/main.yml/badge.svg)
 
 ### Links
-[Asciicast Brain-even](https://asciinema.org/a/Albrjpeae8kjLtpeF217CXegd) 
- |
-[Asciicast Brain-calc](https://asciinema.org/a/0rtTdJKjhIwSNVy94lWBJr8mi) 
- |
-[Asciicast Brain-gcd](https://asciinema.org/a/DuMgP4ivpzN1curcikr7Tg71H)
- |
-[Asciicast Brain-progression](https://asciinema.org/a/iz1bc3agQbhhwzFDalJA3SA9q)
- |
-[Asciicast Brain-prime](https://asciinema.org/a/424966)
+[![Asciicast Brain-even](https://asciinema.org/a/423700.svg)](https://asciinema.org/a/423700)
+[![Asciicast Brain-calc](https://asciinema.org/a/424265.svg)](https://asciinema.org/a/424265)
+[![Asciicast Brain-gcd](https://asciinema.org/a/424525.svg)](https://asciinema.org/a/424525)
+[![Asciicast Brain-progression](https://asciinema.org/a/424733.svg)](https://asciinema.org/a/424733)
+[![Asciicast Brain-prime](https://asciinema.org/a/424966.svg)](https://asciinema.org/a/424966)

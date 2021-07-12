@@ -1,11 +1,15 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "4.0.0"
-description = ""
+description = "Brain-games"
 authors = ["andrey <gridnevandr@gmail.com>"]
 packages = [
 	{ include = "brain_games"},
 ]
+classifiers = [
+    "Topic :: Games/Entertainment"
+]
+repository = ["https://github.com/Zloboglaz/python-project-lvl1"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
