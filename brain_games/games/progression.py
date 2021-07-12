@@ -30,7 +30,7 @@ def make_hidden_element(progression, hidden):
     answer = str(progression[hidden - 1])
     while i <= lenth:
         if i == hidden:
-            question = question + "... "
+            question = question + ".. "
         else:
             question = question + "{} ".format(progression[i - 1])
         i = i + 1
@@ -44,7 +44,7 @@ def get_questions():
     answ = ()
     while i < 3:
         prog_start = random.randint(1, 50)  # первый элемент
-        prog_lenth = random.randint(5, 10)  # количество элементов
+        prog_lenth = 10  # количество элементов
         prog_step = random.randint(1, 10)   # шаг
         hide_element = random.randint(1, prog_lenth)  # номер скрытого элем.
         progression = get_progression(prog_start, prog_step, prog_lenth)
